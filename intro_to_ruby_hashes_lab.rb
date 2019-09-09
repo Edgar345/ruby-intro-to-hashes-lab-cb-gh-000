@@ -29,9 +29,9 @@ def monopoly_with_third_tier
 		 pieces: 4,
 		 names: {
 			 reading_railroad: {},
-			 two_pieces_owned: {},
-			 three_pieces_owned: {},
-			 four_pieces_owned: {}
+			 pennsylvania_railroad: {},
+			 b_and_o_railroad: {},
+			 shortline: {}
 		 },
 		 rent_in_dollars: {
 			 one_piece_owned: 25,
